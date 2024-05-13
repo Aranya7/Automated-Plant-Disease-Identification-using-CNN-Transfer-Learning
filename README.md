@@ -1,4 +1,4 @@
-# Automated-Plant-Disease-Identification-using-CNN-Transfer-Learning
+# Leaf Doctor: Automated Plant Disease Identification using CNN and Transfer Learning
 
 About Project (Summary): 
 An interface that can diagnose diseases in leaves (in real-time) using Convolutional Neural Networks.  The dataset used contains 38 classes of 14 species of plants with healthy and diseased leaf images (captured in laboratory conditions).  An EffiecientNetB0-based model has been used along with additional layers for disease-specific feature extractions.
